@@ -98,6 +98,6 @@ The above heatmap visualizes the frequency of "Carry Out" behavior segmented by 
 - The sample size for widowed bar-goers is too small to make any meaningful inferences about their age or coupon acceptance.
 
 ## Recommendation based on above Findings
--- Coupon ads and delivery could be targeted to Young adults perhaps in 4-5 window as 6.00 pm seems to be highest usage.
--- Given Coffee goers seem to use the coupons most, perhaps target that audience
--- Carry out coupons could be targeted towards Singles and married partners.
+- Coupon ads and delivery could be targeted to Young adults perhaps in 4-5 window as 6.00 pm seems to be highest usage.
+- Given Coffee goers seem to use the coupons most, perhaps target that audience
+- Carry out coupons could be targeted towards Singles and married partners.
