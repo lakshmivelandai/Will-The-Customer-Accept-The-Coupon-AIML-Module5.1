@@ -3,6 +3,12 @@
 ## Problem Statement
 This project is to determine if a driver is likely to accept coupons from restaurants. The data for the project is based on a survey that describes different driving scenarios including destination, weather, passenger, and whether the people will accept the coupon if they are the driver. You can find a link to my Jupyter notebook detailing my work here.
 
+## Link to Dataset
+https://github.com/lakshmivelandai/Will-The-Customer-Accept-The-Coupon-AIML-Module5.1/blob/main/data/coupons.csv
+
+## Link to Jupyter file
+https://github.com/lakshmivelandai/Will-The-Customer-Accept-The-Coupon-AIML-Module5.1/blob/main/Will-Customer-Accept-Coupon.ipynb
+
 ## Data Available
 
 ### User Attributes
@@ -95,6 +101,3 @@ The above heatmap visualizes the frequency of "Carry Out" behavior segmented by 
 -- Coupon ads and delivery could be targeted to Young adults perhaps in 4-5 window as 6.00 pm seems to be highest usage.
 -- Given Coffee goers seem to use the coupons most, perhaps target that audience
 -- Carry out coupons could be targeted towards Singles and married partners.
-
-## Link to Jupyter file
-https://github.com/lakshmivelandai/Will-The-Customer-Accept-The-Coupon-AIML-Module5.1/blob/main/Will-Customer-Accept-Coupon.ipynb
