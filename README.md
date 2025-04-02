@@ -95,9 +95,3 @@ The above heatmap visualizes the frequency of "Carry Out" behavior segmented by 
 -- Coupon ads and delivery could be targeted to Young adults perhaps in 4-5 window as 6.00 pm seems to be highest usage.
 -- Given Coffee goers seem to use the coupons most, perhaps target that audience
 -- Carry out coupons could be targeted towards Singles and married partners.
-
-### Coupon Attributes
-- **Time before it expires**: 2 hours or one day
-
-## Findings
-
