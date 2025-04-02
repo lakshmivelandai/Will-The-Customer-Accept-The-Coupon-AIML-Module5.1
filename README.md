@@ -43,7 +43,7 @@ Data Preparation consisted of
 - Replace the age column with values and change the column to a integer type
 
 ## Data Analysis and Findings
-![Alt text](../images/CouponAcceptanceByType.png?raw=true "Title")
+![Alt text](/images/CouponAcceptanceByType.png?raw=true "Title")
 
 The graph presents the count of accepted and not accepted coupons across different coupon types. Here are the key insights:
 - Coffee House coupons have the highest acceptance rate, with nearly equal counts of accepted and not accepted coupons.
@@ -54,8 +54,8 @@ The graph presents the count of accepted and not accepted coupons across differe
 
 Overall, coupons for coffee houses and lower-cost restaurants are more frequently used, whereas those for bars and higher-cost restaurants see lower acceptance rates.
 
-![Alt text](../images/CouponUsageTimeOfDay.png?raw=true "Title")
-![Alt text](../images/CouponUsageAge.png?raw=true "Title")
+![Alt text](/images/CouponUsageTimeOfDay.png?raw=true "Title")
+![Alt text](/images/CouponUsageAge.png?raw=true "Title")
 
 Above graphs show that 
 - Most coupons were used at 6 PM, followed by 7 AM and 10 AM.
@@ -67,7 +67,7 @@ Above graphs show that
 -- Younger age groups (below 21) have lower overall usage but peak at 6 PM and 7 AM.
 
 
-![Alt text](../images/CarryOutAgeWeatherMaritalStatusFacetGrid.png?raw=true "Title")
+![Alt text](/images/CarryOutAgeWeatherMaritalStatusFacetGrid.png?raw=true "Title")
 The above heatmap visualizes the frequency of "Carry Out" behavior segmented by age, weather conditions, and marital status. Here are some key observations:
 
 - Higher Activity in Sunny Weather:
@@ -86,7 +86,7 @@ The above heatmap visualizes the frequency of "Carry Out" behavior segmented by 
 -- Singles and married partners seem to order carry-out more frequently than divorced or widowed individuals.
 -- The most notable high-frequency category appears under "Sunny-Single (age 21-26)", suggesting that young singles are the most active users.
 
-![Alt text](../images/BarGoersAgeDistribution.png?raw=true "Title")
+![Alt text](/images/BarGoersAgeDistribution.png?raw=true "Title")
 - Bars are be more frequented by younger individuals who are single or in unmarried partnerships.
 - The decision to accept a coupon doesn't seem to be strongly correlated with age for married or divorced bar-goers.
 - The sample size for widowed bar-goers is too small to make any meaningful inferences about their age or coupon acceptance.
